@@ -1,5 +1,9 @@
-t=int(input("Nhập số giây:"))
-hour=(t//3600)%24
-minute=(t%3600)//
-second=(t%3600)%60
-print(hour,":",minute,":",second)
+import math
+try:
+ r=float(input("Mời bạn nhập bán kính hình tròn:"))
+ cv=2*math.pi*r
+ dt=r**2
+ print("Chu vi =",cv)
+ print("Diện tích=",dt)
+except:
+ print("Lỗi rồi!")
