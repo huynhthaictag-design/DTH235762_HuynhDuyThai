@@ -1,0 +1,30 @@
+Ghi chú (comment) là phần văn bản được thêm vào mã nguồn để giải thích, mô tả hoặc ghi lại thông tin mà trình thông dịch Python sẽ bỏ qua khi thực thi. Ghi chú giúp mã dễ hiểu hơn, đặc biệt khi làm việc nhóm hoặc bảo trì sau này.
+
+1. Ghi chú một dòng (Single-line comment)
+Ký hiệu: Dùng dấu # ở đầu dòng ghi chú.
+
+Đặc điểm:
+
+Chỉ ghi chú trên một dòng.
+
+Thường dùng để giải thích ngắn gọn hoặc vô hiệu hóa tạm thời một dòng mã.
+2. Ghi chú nhiều dòng (Multi-line comment)
+Cách viết:
+
+Dùng nhiều dấu # liên tiếp ở đầu mỗi dòng.
+
+Hoặc dùng chuỗi ký tự nhiều dòng với ''' hoặc """.
+
+Đặc điểm:
+
+Dùng để ghi chú dài, mô tả chi tiết một đoạn mã.
+
+Không phải là ghi chú thực sự, mà là chuỗi ký tự không gán cho biến nào nên được bỏ qua khi chạy.
+3. Docstring (Ghi chú tài liệu hóa)
+Ký hiệu: Dùng cặp dấu """ hoặc ''' ngay sau định nghĩa hàm, lớp hoặc module.
+
+Đặc điểm:
+
+Là một dạng đặc biệt của chuỗi ký tự dùng để tài liệu hóa.
+
+Có thể được truy xuất bằng hàm help() hoặc thuộc tín
