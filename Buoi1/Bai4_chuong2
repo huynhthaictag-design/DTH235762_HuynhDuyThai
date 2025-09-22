@@ -1,4 +1,4 @@
-Python có các dữ liệu cơ bản như số nguyên int, số thực float, kiểu logic bôlean và chuỗi ký tự (string)\
-hàm type sẽ trả về kiểu dữ liệu của 1 biến có giá thin thuộc kiểu dữ liệu đó
-kiểu số nguyên bao gồm các số nguyên dương hoặc âm hoặc số 0 không chứa phần thập phân ví du 123,6,0,44=== 
-Đặc biệt hõo trợ xử lý các số nguyên tới 16 chữ số
+// Python có các dữ liệu cơ bản như số nguyên int, số thực float, kiểu logic bôlean và chuỗi ký tự (string)\
+// hàm type sẽ trả về kiểu dữ liệu của 1 biến có giá thin thuộc kiểu dữ liệu đó
+// kiểu số nguyên bao gồm các số nguyên dương hoặc âm hoặc số 0 không chứa phần thập phân ví du 123,6,0,44=== 
+// Đặc biệt hõo trợ xử lý các số nguyên tới 16 chữ số
